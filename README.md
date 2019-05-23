@@ -2,7 +2,7 @@
 One of my very first computer science projects. 
 Made with processing version 3.3.7
 
-Three dimensional virtual acquarium
+Three dimensional virtual acquarium. The objects are all made with a series of 2 dimensional elipses stacked to create a 3 dimensinal object.
 
 
 ![Tank1](https://user-images.githubusercontent.com/46660535/58289562-71318c00-7d7c-11e9-8576-7a67ce0e159c.JPG)
